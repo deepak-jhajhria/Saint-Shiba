@@ -1,0 +1,29 @@
+:root{
+    /* bg-color */
+    --bs-blue: #8B35E2;
+    --bs-orange: #fd7e14;
+    --white:#fff;
+    --gradient-orange:linear-gradient(90deg, #FFA800 0%, #F06500 100%);
+    --gradient-c:linear-gradient(136deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.00) 100%);
+    --black:#0C0B0B;
+    --red:red;    
+    /* font-size */
+    --fs-36:36px;
+    --fs-18:18px;
+    --fs-96:96px;
+    --fs-22:22px;
+    --fs-48:48px;
+    --fs-28:28px;
+    --fs-14:14px;
+    --fs-76:76px;
+    --fs-11:11px;
+    --fs-58:58px;
+    --fs-9:9px;
+    /* font-weight  */
+    --fw-400:400px;
+    --fw-600:600px;
+    --fw-700:700px;
+    --fw-300:300px
+    /* font-family */
+    --ff-p:'Poppins', sans-serif;
+}
